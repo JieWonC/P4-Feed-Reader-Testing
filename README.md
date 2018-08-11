@@ -22,7 +22,7 @@ This is a 4th project of Udacity's Front-End Web Developer Nanodegree (FEND). Us
 
 
 ## Installation
-1. Clone this repo
+1. Clone this repo / 
 ```
 $ git clone https://github.com/JieWonC/P4-Feed-Reader-Testing.git
 ```
